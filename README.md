@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ackberry
 - 👀  billiards 
-- 🌱 currently learning C and Python
-- 📫 Can reach me at akbari@usf.edu
+- 🌱 currently learning Java and Python
+- 📫 Can reach me at ackberrie@gmail.com
 - ⚡ Fun fact: I easily remember things not meant to 
 
 <!---
