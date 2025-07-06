@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ackberry
-- 👀  billiards 
-- 🌱 currently learning Java and Python
+- 👀  I love billiards, music, and movies 
+- 🌱 currently learning backend
 - 📫 Can reach me at ackberrie@gmail.com
 - ⚡ Fun fact: I easily remember things not meant to 
 
