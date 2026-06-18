@@ -1,7 +1,21 @@
-[ackberry.dev](https://ackberry.dev) <br>
-[LinkedIn](https://www.linkedin.com/in/deep-akbari/) <br>
-[Letterboxd](https://letterboxd.com/KillingSanta69/) <br>
-reach me at ackberrie[at]gmail[dot]com <br>
-I like billiards, movies and music
+## hi, i'm deep
 
-hello
+[ackberry.dev](https://ackberry.dev) <br>
+[Letterboxd](https://letterboxd.com/KillingSanta69/) <br>
+
+```go
+func main() {
+	type Me struct {
+		Role       string
+		BuildsWith []string
+		ProudOf    string
+		FunFact    string
+	}
+
+	deep := Me{
+		Role:       "AI Engineering Intern at Fedcon",
+		BuildsWith: []string{"Go", "Python", "Typescript", "Langchain", "PostgreSQL"},
+		ProudOf:    "3x hackathon winner and ACM HRI 2026 published researcher",
+		FunFact:    "I like turning AI ideas into real products people can use",
+	}
+}
