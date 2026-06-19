@@ -1,4 +1,4 @@
-## hi, i'm deep
+### hi, i'm deep
 
 [ackberry.dev](https://ackberry.dev) <br>
 [Letterboxd](https://letterboxd.com/KillingSanta69/) <br>
@@ -7,15 +7,22 @@
 func main() {
 	type Me struct {
 		Role       string
+		School     string
+		Previously []string
 		BuildsWith []string
-		ProudOf    string
-		FunFact    string
+		Work       []string
+		Interests  []string
 	}
 
 	deep := Me{
-		Role:       "AI Engineering Intern at Fedcon",
-		BuildsWith: []string{"Go", "Python", "Typescript", "Langchain", "PostgreSQL"},
-		ProudOf:    "3x hackathon winner and ACM HRI 2026 published researcher",
-		FunFact:    "I like turning AI ideas into real products people can use",
+		Role:       "AI Engineer Intern at Fedcon",
+		School:     "Computer Science at University of South Florida",
+		Previously: []string{"Software Engineer Intern at CacheAI", "Robotics Researcher at USF RARE Lab"},
+		BuildsWith: []string{"Go", "Python", "TypeScript", "Next.js", "PostgreSQL"},
+		Work:       []string{"AI systems", "backend APIs", "developer tools"},
+		Interests:  []string{"billiards", "movies", "music"},
 	}
 }
+```
+
+reach me at ackberrie[at]gmail[dot]com
