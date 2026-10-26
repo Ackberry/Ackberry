@@ -44,6 +44,7 @@ reach me at ackberrie[at]gmail[dot]com
 
 ### open source
 
+- **Google Cloud Platform · Kubernetes History Inspector** — standardized klog parsing and reconstructed full log lines for control plane logs. [PR #1162](https://github.com/GoogleCloudPlatform/khi/pull/1162) · merged
 - **Google · go-github** — added organization-level Copilot Spaces CRUD endpoints. [PR #4379](https://github.com/google/go-github/pull/4379) · merged
 - **Google Cloud Platform · Kubernetes History Inspector** — added local file-input support to Job-mode CLI generation and execution. [PR #829](https://github.com/GoogleCloudPlatform/khi/pull/829) · merged
 - **Tekton · Pipeline** — documented StepAction support, catalog requirements, and examples for Hub Resolver. [PR #10275](https://github.com/tektoncd/pipeline/pull/10275) · merged
