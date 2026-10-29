@@ -44,6 +44,7 @@ reach me at ackberrie[at]gmail[dot]com
 
 ### open source
 
+- **AWS Labs · ferret-scan** — isolated PR checklist logs per run to prevent concurrent runs from overwriting output. [PR #836](https://github.com/awslabs/ferret-scan/pull/836) · merged
 - **Google Cloud Platform · Kubernetes History Inspector** — 3 merged PRs
   - Unified MCP workbench pagination defaults and ID formatting. [PR #1186](https://github.com/GoogleCloudPlatform/khi/pull/1186) · merged
   - Standardized klog parsing and reconstructed full log lines for control plane logs. [PR #1162](https://github.com/GoogleCloudPlatform/khi/pull/1162) · merged
