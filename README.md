@@ -15,7 +15,7 @@ func main() {
 	}
 
 	deep := Me{
-		Role:       "AI Engineer Intern at Fedcon",
+		Role:       "Software Engineer Intern at Fedcon",
 		School:     "Computer Science at University of South Florida",
 		Previously: []string{"Software Engineer Intern at CacheAI", "Robotics Researcher at USF RARE Lab"},
 		BuildsWith: []string{"Go", "Python", "TypeScript", "Next.js", "PostgreSQL"},
